@@ -1,3 +1,7 @@
+# Deprecation notice 
+
+java-build-tools docker container will be deprecated effective 31 January 2021, the container image will still be available for use however no further updates will be provided. 
+
 # Description
 
 Docker image with all the commonly used tools to build Java applications on Jenkins slaves.
